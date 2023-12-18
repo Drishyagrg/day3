@@ -27,10 +27,8 @@ print('''
     |     ,-----"-..?----_/ )      __,-'"             "                  (  |
     |-.._(                  `-----'                                       `-|
 90S-+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-90S
-    Map 1998 Matthew Thomas.|Freely usable as long as this|line is included.|
     |     |     |     |     |     |     |     |     |     |     |     |     |
    180   150W  120W  90W   60W   30W   000   30E   60E   90E   120E  150E  180
------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----
 ''')
 print("      Welcome to Lalitpur!\nYour mission is to reach my college.\n")
 choice1=input('You are at my gate. Where do you want to go?Type "Left" or "Right"').lower()
